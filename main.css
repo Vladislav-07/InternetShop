@@ -29,7 +29,6 @@ html, body {
 
 .headerTitle {
   margin-left: 20px;
-
 }
 
 .main {
@@ -94,11 +93,6 @@ html, body {
   color: white;
 }
 
-
-/* .bascketCloused {
-  display: none;
-} */
-
 .bascket {
   display: flex;
   justify-content: center;
@@ -108,10 +102,6 @@ html, body {
   margin-top: -111px;
   background-color: white;
 }
-
-/* .closeBascket {
-  display: none;
-} */
 
 .closeBascket.active {
   display: none;
