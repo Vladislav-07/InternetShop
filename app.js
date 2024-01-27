@@ -66,20 +66,3 @@ buttonPcTwo.addEventListener('click', function() {
     cardBascket.classList.toggle('active')
   }
 })
-
-// let body = document.querySelector('.body')
-// let bascket = document.getElementById('bascket')
-// let btnCloseBascket = document.querySelector('.closeBascket')
-
-
-// function openBascket() {
-//   body.classList.toggle('bodyOverflow')
-//   bascket.classList.toggle('bascket')
-//   btnCloseBascket.classList.toggle('active')
-// }
-
-// function closeBascket() {
-//   body.classList.remove('bodyOverflow')
-//   bascket.classList.remove('bascket')
-//   btnCloseBascket.classList.remove('active')
-// }
